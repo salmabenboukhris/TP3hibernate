@@ -17,4 +17,4 @@
 <img width="1056" height="915" alt="Screenshot 2026-02-23 123353" src="https://github.com/user-attachments/assets/1701903f-d3a1-42a7-a4e2-448086ab4728" />
 ### Diagramme de classe 
 
-<img width="551" height="482" alt="Screenshot 2026-02-23 130036" src="https://github.com/user-attachments/assets/3a2f1b2b-16da-41ec-9ba8-b34a22061bbf" />
+<img width="678" height="612" alt="diagramme de classe " src="https://github.com/user-attachments/assets/60721e5a-c025-400e-933f-3c0da0a69efa" />
